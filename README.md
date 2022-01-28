@@ -1,5 +1,7 @@
 # GrowWormGame
 
+Project for final test in 2020.11
+
 # Function
 - Display time and update map using timer
 
